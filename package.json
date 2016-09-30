@@ -1,0 +1,12 @@
+{
+  "name": "ffmpeg-demo",
+  "version": "1.0.0",
+  "private": true,
+  "main": "app.js",
+  "author": "Miles Hingston",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.0",
+    "koa": "^2.0.0"
+  }
+}
